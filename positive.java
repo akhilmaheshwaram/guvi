@@ -9,8 +9,12 @@ if(n<0)
 {
 System.out.println("Negative");
 }
-else
+else if(n>0
 {
 System.out.println("positive");
+}
+else
+{
+System.out.println("0");
 }
 }
